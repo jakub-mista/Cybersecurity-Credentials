@@ -4,5 +4,5 @@
 
 Repozytorium zawiera potwierdzenia ukończonych szkoleń w obszarze cyberbezpieczeństwa.
 
-** 📁 Dokumenty **
-* [HTB Academy - Official Student Transcript](./HTB_Academy_Student_Transcript.pdf)
+## 📁 Dokumenty
+* **HTB Academy** – [Official Student Transcript](./HTB_Academy_Student_Transcript.pdf)
