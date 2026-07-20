@@ -1,8 +1,19 @@
-# HTB Academy Path Badges
+# 🛡️ HTB Academy Path Badges
 
-<p align="center">
-  <img src="cape_path.png" width="280" title="Active Directory Penetration Tester">
-  <img src="cpts_path.png" width="280" title="Penetration Tester">
-  <img src="cwes_path.png" width="280" title="Web Penetration Tester">
-  <img src="cjca_path.png" width="280" title="Junior Cybersecurity Analyst">
-</p>
+---
+
+### 🏰 Active Directory Penetration Tester (CAPE)
+*Opis: Zaawansowane ataki, enumeracja i eksploitacja środowisk Active Directory.*
+<img src="cape_path.png" width="450" alt="Active Directory Penetration Tester Badge">
+
+### 🎯 Penetration Tester (CPTS)
+*Opis: Pentesty infrastruktury sieciowej oraz techniki eskalacji uprawnień.*
+<img src="cpts_path.png" width="450" alt="Penetration Tester Badge">
+
+### 🪲 Web Penetration Tester (CWES)
+*Opis: Testy penetracyjne aplikacji webowych oraz API.*
+<img src="cwes_path.png" width="450" alt="Web Penetration Tester Badge">
+
+### 🔍 Junior Cybersecurity Analyst (CJCA)
+*Opis: Podstawy operacji defensywnych, struktur SOC oraz fundamentalnych technik testów penetracyjnych.*
+<img src="cjca_path.png" width="450" alt="Junior Cybersecurity Analyst Badge">
