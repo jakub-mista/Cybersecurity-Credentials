@@ -2,7 +2,7 @@
 
 **Status:** July 20, 2026
 
-Repository contains training completions, official transcripts, and lab badges in the field of cybersecurity.
+Repository contains training completions, official transcripts, and lab badges.
 
 ## 📁 Documents
 * **HTB Academy** – [Official Student Transcript](./HTB_Academy_Student_Transcript.pdf)
