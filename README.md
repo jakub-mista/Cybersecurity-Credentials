@@ -7,9 +7,6 @@ Repository contains training completions, official transcripts, and lab badges i
 ## 📁 Documents
 * **HTB Academy** – [Official Student Transcript](./HTB_Academy_Student_Transcript.pdf)
 * **Securitum** – [Sekurak.Academy Hacker Websec Internship Certificate](./Securitum_Sekurak_Academy_Hacker_Certificate.pdf)
-
+  
 ## 🏅 Badges
-* **HTB Academy** – [Active Directory Penetration Tester](./cape_path.png)
-* **HTB Academy** – [Penetration Tester](./cpts_path.png)
-* **HTB Academy** – [Web Penetration Tester](./cwes_path.png)
-* **HTB Academy** – [Junior Cybersecurity Analyst](./cjca_path.png)
+<img src="./cape_path.png" width="23%"/> <img src="./cpts_path.png" width="23%"/> <img src="./cwes_path.png" width="23%"/> <img src="./cjca_path.png" width="23%"/>
