@@ -1,3 +1,3 @@
-## HTB Academy Student Transcript
+## Cybersecurity-Credentials
 
 **Status:** July 20, 2026
