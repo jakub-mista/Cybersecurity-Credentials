@@ -1,7 +1,5 @@
 # 🛡️ HTB Academy Path Badges
 
----
-
 <section>
   <h3 align="left">🏰 Active Directory Penetration Tester (CAPE)</h3>
   <p align="left"><i>Opis: Zaawansowane ataki, enumeracja i eksploitacja środowisk Active Directory.</i></p>
