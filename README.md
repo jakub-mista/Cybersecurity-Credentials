@@ -9,4 +9,4 @@ Repository contains training completions, official transcripts, and lab badges.
 * **Securitum** – [Sekurak.Academy Hacker Websec Internship Certificate](./Securitum_Sekurak_Academy_Hacker_Certificate.pdf)
   
 ## 🏅 Badges
-<img src="./cape_path.png" width="23%"/> <img src="./cpts_path.png" width="23%"/> <img src="./cwes_path.png" width="23%"/> <img src="./cjca_path.png" width="23%"/>
+<img src="./badges/cape_path.png" width="23%"/> <img src="./badges/cpts_path.png" width="23%"/> <img src="./badges/cwes_path.png" width="23%"/> <img src="./badges/cjca_path.png" width="23%"/>
